@@ -14,9 +14,9 @@
 
 - [X] 2.0 Introduction (04:05)
 
-- [ ] 2.1 Before React (07:02)
+- [X] 2.1 Before React (07:02)
 
-- [ ] 2.2 Our First React Element (10:31)
+- [X] 2.2 Our First React Element (10:31)
 
 - [ ] 2.3 Events in React (08:01)
 
