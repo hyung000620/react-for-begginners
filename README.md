@@ -28,7 +28,7 @@
 
 ####  ``3 [UPDATE] STATE``
 
-- [ ] 3.0 Understanding State (13:34)
+- [X] 3.0 Understanding State (13:34)
 
 - [ ] 3.1 setState part One (11:53)
 
