@@ -18,7 +18,7 @@
 
 - [X] 2.2 Our First React Element (10:31)
 
-- [ ] 2.3 Events in React (08:01)
+- [X] 2.3 Events in React (08:01)
 
 - [ ] 2.4 Recap (05:47)
 
