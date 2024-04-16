@@ -11,12 +11,12 @@
 
 <script type="text/babel">
     const root = document.getElementById('root');
-    const Title = (
+    const Title = () => (
         <h3 id="title" onMouseEnter={() => console.log("mouse enter")}>
             Hello I'm span
         </h3>
     );
-    const Button = (
+    const Button = () => (
         <button 
             style={{
                 backgroundColor: "tomato"
@@ -27,12 +27,13 @@
         </button>
     );
 
-    const container = React.createElement(
-        "div",
-        null,
-        [Title, Button]  
+    const Container = () =>(
+        <div>
+            <Title /> 
+            <Button /> 
+        </div>
     );
 
-    ReactDOM.render(container, root);
+    ReactDOM.render(<Container/>, root);
 </script>
 </html>

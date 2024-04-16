@@ -24,7 +24,7 @@
 
 - [X] 2.5 JSX (08:22)
 
-- [ ] 2.6 JSX part Two (07:19)
+- [X] 2.6 JSX part Two (07:19)
 
 ####  ``3 [UPDATE] STATE``
 
