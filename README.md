@@ -40,7 +40,7 @@
 
 - [X] 3.5 Inputs and State (10:29)
 
-- [ ] 3.6 State Practice part One (07:00)
+- [X] 3.6 State Practice part One (07:00)
 
 - [ ] 3.7 State Practice part Two (11:29)
 
