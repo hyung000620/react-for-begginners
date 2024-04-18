@@ -34,7 +34,7 @@
 
 - [X] 3.2 setState part Two (07:22)
 
-- [ ] 3.3 Recap (05:19)
+- [X] 3.3 Recap (05:19)
 
 - [ ] 3.4 State Functions (05:52)
 
