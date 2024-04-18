@@ -42,7 +42,7 @@
 
 - [X] 3.6 State Practice part One (07:00)
 
-- [ ] 3.7 State Practice part Two (11:29)
+- [X] 3.7 State Practice part Two (11:29)
 
 - [ ] 3.8 Recap (06:57)
 
