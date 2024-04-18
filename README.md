@@ -30,7 +30,7 @@
 
 - [X] 3.0 Understanding State (13:34)
 
-- [ ] 3.1 setState part One (11:53)
+- [X] 3.1 setState part One (11:53)
 
 - [ ] 3.2 setState part Two (07:22)
 
