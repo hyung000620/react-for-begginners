@@ -38,7 +38,7 @@
 
 - [X] 3.4 State Functions (05:52)
 
-- [ ] 3.5 Inputs and State (10:29)
+- [X] 3.5 Inputs and State (10:29)
 
 - [ ] 3.6 State Practice part One (07:00)
 
