@@ -32,7 +32,7 @@
 
 - [X] 3.1 setState part One (11:53)
 
-- [ ] 3.2 setState part Two (07:22)
+- [X] 3.2 setState part Two (07:22)
 
 - [ ] 3.3 Recap (05:19)
 
