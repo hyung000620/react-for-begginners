@@ -62,7 +62,7 @@
 
 - [X] 5.0 Introduction (09:10)
 
-- [ ] 5.1 Tour of CRA (12:40)
+- [X] 5.1 Tour of CRA (12:40)
 
 #### ``6 [UPDATE] EFFECTS``
 
