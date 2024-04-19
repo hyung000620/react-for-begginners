@@ -46,7 +46,7 @@
 
 - [X] 3.8 Recap (06:57)
 
-- [ ] 3.9 Final Practice and Recap (16:24)
+- [X] 3.9 Final Practice and Recap (16:24)
 
 ####  ``4 [UPDATE] PROPS``
 

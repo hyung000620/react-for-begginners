@@ -14,7 +14,7 @@
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
 <script type="text/babel">
-    function App() {
+    function MinutesToHours() {
         const [minutes, setMinutes] = React.useState();
         const [hours, setHours] = React.useState();
         const [flipped, setFlipped] = React.useState(false);
@@ -29,7 +29,6 @@
         };
         return (
             <div>
-                <h1 className="header">Super Converter</h1>
                 <label htmlFor="minutes">Minutes</label>
                 <input value={flipped ? minutes*60 : minutes} id="minutes" placeholder="Minutes" type="number" onChange={onChange} disabled={flipped} />
                 <br/>
@@ -38,6 +37,30 @@
                 <br/>
                 <button onClick={reset}>Reset</button>
                 <button onClick={onFlip}>Flip</button>
+            </div>
+        )
+    }
+    function KmToMiles() {
+        return (
+            <div>
+                <h1>Km to Miles</h1>
+            </div>
+        )
+    }
+    function App() {
+        const [index, setIndex] = React.useState("0");
+        const onSelct = (event) => {
+            setIndex(event.target.value);
+        };
+        return (
+            <div>
+                <h1>Super Converter</h1>
+                <select value={index} onChange={onSelct}>
+                    <option value="0">MinutesToHours</option>
+                    <option value="1">KmToMiles</option>
+                </select>
+                {index === "0" ? <MinutesToHours/> : null}
+                {index === "1" ? <KmToMiles/> : null}    
             </div>
         )
     }
