@@ -56,7 +56,7 @@
 
 - [X] 4.2 Prop Types (08:14)
 
-- [ ] 4.3 Recap (05:19)
+- [X] 4.3 Recap (05:19)
 
 ####  ``5 [UPDATE] CREATE REACT APP``
 
