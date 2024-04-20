@@ -66,7 +66,7 @@
 
 #### ``6 [UPDATE] EFFECTS``
 
-- [ ] 6.0 Introduction (05:51)
+- [X] 6.0 Introduction (05:51)
 
 - [ ] 6.1 useEffect (04:57)
 
