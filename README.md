@@ -74,7 +74,7 @@
 
 - [X] 6.3 Recap (05:05)
 
-- [ ] 6.4 Cleanup (13:20)
+- [X] 6.4 Cleanup (13:20)
 
 #### ``7 [UPDATE] PRACTICE MOVIE APP``
 
