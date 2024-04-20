@@ -68,7 +68,7 @@
 
 - [X] 6.0 Introduction (05:51)
 
-- [ ] 6.1 useEffect (04:57)
+- [X] 6.1 useEffect (04:57)
 
 - [ ] 6.2 Deps (12:03)
 
