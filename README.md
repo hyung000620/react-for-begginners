@@ -78,7 +78,7 @@
 
 #### ``7 [UPDATE] PRACTICE MOVIE APP``
 
-- [ ] 7.0 To Do List part One (13:00)
+- [X] 7.0 To Do List part One (13:00)
 
 - [ ] 7.1 To Do List part Two (11:30)
 
