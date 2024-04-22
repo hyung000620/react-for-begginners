@@ -80,7 +80,7 @@
 
 - [X] 7.0 To Do List part One (13:00)
 
-- [ ] 7.1 To Do List part Two (11:30)
+- [X] 7.1 To Do List part Two (11:30)
 
 - [ ] 7.2 Coin Tracker (12:51)
 
