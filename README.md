@@ -82,7 +82,7 @@
 
 - [X] 7.1 To Do List part Two (11:30)
 
-- [ ] 7.2 Coin Tracker (12:51)
+- [X] 7.2 Coin Tracker (12:51)
 
 - [ ] 7.3 Movie App part One (16:13)
 
