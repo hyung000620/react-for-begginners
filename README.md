@@ -84,7 +84,7 @@
 
 - [X] 7.2 Coin Tracker (12:51)
 
-- [ ] 7.3 Movie App part One (16:13)
+- [X] 7.3 Movie App part One (16:13)
 
 - [ ] 7.4 Movie App part Two (10:58)
 
