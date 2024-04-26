@@ -1,5 +1,7 @@
 # react-for-beginners
 
+## [View SITE](https://hyung000620.github.io/react-for-begginners/)
+
 ## lectures
 
 ####  ``1 [UPDATE] INTRODUCTION``
@@ -94,7 +96,7 @@
 
 - [X] 7.7 Publishing (07:42)
 
-- [ ] 7.8 Conclusions (01:20)
+- [X] 7.8 Conclusions (01:20)
 
 - [ ] 7.9 Styles (05:26)
 
