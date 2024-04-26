@@ -100,7 +100,7 @@
 
 - [X] 7.9 Styles (05:26)
 
-- [ ] 7.10 Next Steps (05:49)
+- [X] 7.10 Next Steps (05:49)
 
 #### ``8 INTRODUCTION``
 
