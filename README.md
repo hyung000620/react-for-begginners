@@ -90,7 +90,7 @@
 
 - [X] 7.5 React Router (11:29)
 
-- [ ] 7.6 Parameters (11:54)
+- [X] 7.6 Parameters (11:54)
 
 - [ ] 7.7 Publishing (07:42)
 
