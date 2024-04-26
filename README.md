@@ -98,7 +98,7 @@
 
 - [X] 7.8 Conclusions (01:20)
 
-- [ ] 7.9 Styles (05:26)
+- [X] 7.9 Styles (05:26)
 
 - [ ] 7.10 Next Steps (05:49)
 
