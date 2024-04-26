@@ -92,7 +92,7 @@
 
 - [X] 7.6 Parameters (11:54)
 
-- [ ] 7.7 Publishing (07:42)
+- [X] 7.7 Publishing (07:42)
 
 - [ ] 7.8 Conclusions (01:20)
 
