@@ -86,7 +86,7 @@
 
 - [X] 7.3 Movie App part One (16:13)
 
-- [ ] 7.4 Movie App part Two (10:58)
+- [X] 7.4 Movie App part Two (10:58)
 
 - [ ] 7.5 React Router (11:29)
 
